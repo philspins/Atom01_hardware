@@ -68,5 +68,5 @@ Thumbs.db
 ref/
 
 #rhino
-.3dm
-.3dmbak
+*.3dm
+*.3dmbak
